@@ -1,0 +1,1 @@
+html{box-sizing:border-box;font-size:100%}*,*::before,*::after{box-sizing:inherit}body{color:#fff;margin:0;padding:0;line-height:1.3;font-family:'Poppins', sans-serif;background-color:#1961a7}.flex{display:flex}.flex-jc-sb{justify-content:space-between}.flex-jc-sa{justify-content:space-around}.flex-jc-c{justify-content:center}a{text-decoration:none;color:#ffa73e;font-weight:bold}

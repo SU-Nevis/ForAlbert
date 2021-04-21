@@ -1,0 +1,39 @@
+
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    color: $white;
+    margin: 0;
+    padding: 0;
+    line-height: 1.3;
+    font-family: 'Poppins', sans-serif;
+    background-color: $bgBlue;
+}
+
+.flex {
+    display: flex;
+
+    &-jc-sb {
+        justify-content: space-between;
+    }
+
+    &-jc-sa {
+        justify-content: space-around;
+    }
+
+    &-jc-c {
+        justify-content: center;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: $boxYellow;
+}

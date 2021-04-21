@@ -1,0 +1,21 @@
+.header {
+    border: 1px solid magenta;
+}
+
+.logo__6year {
+    position: relative;
+
+    &__text {
+    width: 99.83px;
+    height: 59px;
+    background-color: $boxYellow;
+    border-radius: 10px;
+    }
+
+    & span {
+        font-size: 10px;
+        color: $bgBlue;
+        writing-mode: vertical-lr;
+
+    }
+}
