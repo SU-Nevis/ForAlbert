@@ -1,1 +1,1 @@
-makrid -pv test
+mkdir -pv test
